@@ -13,7 +13,7 @@
   
   F: below 50
   
-  The program should display the average marks up to two decimal places and the corresponding grade. 
+  The program should display the average marks up to two decimal places and the corresponding grade.
   
 # Date : 
 # Aim:
